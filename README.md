@@ -1,4 +1,4 @@
-# Sentiment-analysis-cnn
+# Sentiment-Analysis-CNN
 Text classification using Convolutional Neural Networks
 
 # Dataset Description
