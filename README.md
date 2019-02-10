@@ -7,6 +7,8 @@ Amazon, Imdb, Yelp.
 There are 1000 reviews for each website, 500 of which are positive.
 In total we have 1500 positive reviews and 1500 negative reviews.
 
+Update: Added new dataset consisting of movie reviews with 5531 positive training examples and 5531 negative training examples.
+
 # Model Description
 The model takes inspiration from the paper, "Sentence Classification using Convolutional Neural Networks" by Yoon Kim.
 [Paper](https://arxiv.org/abs/1408.5882)
@@ -40,4 +42,4 @@ Tunable hyperparameters:
 # Results 
 ![1](https://github.com/Shubhammawa/Sentiment-analysis-cnn/blob/master/Learning_curves/Results_1.png)
 
-![2](https://github.com/Shubhammawa/Sentiment-analysis-cnn/blob/master/Learning_curves/Results_2.png)
+![2](https://github.com/Shubhammawa/Sentiment-analysis-cnn/blob/master/Learning_curves/Results_3.png)
