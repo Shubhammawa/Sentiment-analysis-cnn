@@ -13,6 +13,19 @@ The model takes inspiration from the paper, "Sentence Classification using Convo
 
 Kim CNN:
 ![Kim CNN](https://github.com/Shubhammawa/Netapp-Data-Challenge-Kshitij/blob/master/KimCNN.png)
+
+#### CONVOLUTIONAL LAYER
+  * Multiple filters of varying window size convolved over each training example.
+  * Each filter generates a feature map.
+  * Filters with different window sizes capture context and relation between words.
+#### MAX-POOLING LAYER
+  * Max-pooling operation performed on each feature map to get one feature per filter.
+  * The idea is to capture the most important feature necessary for classification.
+  * Naturally deals with variable length sentences
+#### FULLY CONNECTED LAYER
+#### SOFTMAX LAYER
+   * Probability distribution over labels obtained.
+
 # Hyperparameter Tuning
 Tunable hyperparameters:
 1. Word vector size (embedding size)
@@ -20,5 +33,6 @@ Tunable hyperparameters:
 3. Filter sizes
 4. Number of filters of each type
 5. Learning rate
-6. Num_epochs
-7. minibatch_size 
+6. Reguralization constant
+7. Num_epochs
+8. minibatch_size 
