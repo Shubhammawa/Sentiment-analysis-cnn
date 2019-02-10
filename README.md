@@ -36,3 +36,6 @@ Tunable hyperparameters:
 6. Reguralization constant
 7. Num_epochs
 8. minibatch_size 
+
+# Results 
+![](https://github.com/Shubhammawa/Sentiment-analysis-cnn/blob/master/Learning_curves/Results.png)
