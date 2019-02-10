@@ -40,6 +40,6 @@ Tunable hyperparameters:
 8. minibatch_size 
 
 # Results 
-![1](https://github.com/Shubhammawa/Sentiment-analysis-cnn/blob/master/Learning_curves/Results_1.png)
+![1](https://github.com/Shubhammawa/Sentiment-analysis-cnn/blob/master/Results/Results_1.png)
 
-![2](https://github.com/Shubhammawa/Sentiment-analysis-cnn/blob/master/Learning_curves/Results_3.png)
+![2](https://github.com/Shubhammawa/Sentiment-analysis-cnn/blob/master/Results/Results_3.png)
