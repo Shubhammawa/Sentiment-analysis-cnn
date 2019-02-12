@@ -47,3 +47,9 @@ Tunable hyperparameters:
 ![1](https://github.com/Shubhammawa/Sentiment-analysis-cnn/blob/master/Results/Results_1.png)
 
 ![2](https://github.com/Shubhammawa/Sentiment-analysis-cnn/blob/master/Results/Results_3.png)
+
+# Instructions to use:
+1. Data_prepartion.ipynb used to convert tab separated data into csv format [sentence,category].
+2. Final_Code_CNN.ipynb uses csv input as mentioned above and trains the CNN model.
+3. CNN_code_raw folder contains older versions of the Final_Code_CNN with various intermediate blocks to print output for better visualization, understanding and debugging. (Final_Code_CNN contains only necessary blocks to train the model.)
+4. If trying to reproduce results on the same dataset, no need to run Data_preparation.ipynb, data in proper format already present in Processed_Data folder.
