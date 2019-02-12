@@ -39,6 +39,10 @@ Tunable hyperparameters:
 7. Num_epochs
 8. minibatch_size 
 
+# Learning Curves
+![Batch size too small](https://github.com/Shubhammawa/Sentiment-analysis-cnn/blob/master/Learning_curves/Set_7.png) ![Near optimal hyperparameters](https://github.com/Shubhammawa/Sentiment-analysis-cnn/blob/master/Learning_curves/Set_13.png)
+1)Batch size too small.                    2)Near optimal hyperparameters
+
 # Results 
 ![1](https://github.com/Shubhammawa/Sentiment-analysis-cnn/blob/master/Results/Results_1.png)
 
