@@ -53,3 +53,7 @@ Tunable hyperparameters:
 2. Final_Code_CNN.ipynb uses csv input as mentioned above and trains the CNN model.
 3. CNN_code_raw folder contains older versions of the Final_Code_CNN with various intermediate blocks to print output for better visualization, understanding and debugging. (Final_Code_CNN contains only necessary blocks to train the model.)
 4. If trying to reproduce results on the same dataset, no need to run Data_preparation.ipynb, data in proper format already present in Processed_Data folder.
+
+# More work to be done
+1. Domain adaptation: I plan to train the model using data from a specific domain like movie reviews and then test it on reviews from other domains like Electronics, Food, Travel etc.
+2. Work on CNN + LSTM. Both models will be trained independently and the output will be concatenated.
